@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS spring_security_exercice;
+CREATE DATABASE spring_security_exercice
